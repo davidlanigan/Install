@@ -73,6 +73,12 @@
       "skillPath": "plugins/stitch-utilities/skills/design-md/SKILL.md",
       "computedHash": "d3a4c7d2f2715a33662c8b06ffc16035d01965a8b4ed81c2958fb22ae94760f8"
     },
+    "design-taste-frontend": {
+      "source": "Leonxlnx/taste-skill",
+      "sourceType": "github",
+      "skillPath": "skills/taste-skill/SKILL.md",
+      "computedHash": "69021ac7e671c0c0d85d65b570003cef360b1c296323fa28c042884e146478ca"
+    },
     "diagram-design": {
       "source": "cathrynlavery/diagram-design",
       "sourceType": "github",
