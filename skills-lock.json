@@ -7,6 +7,12 @@
       "skillPath": "archify/SKILL.md",
       "computedHash": "e8cbde4db89de7b49cfab034923a9f6028afd0bc413ab26fe1a68c242e2005fe"
     },
+    "banner-design": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/banner-design/SKILL.md",
+      "computedHash": "1bb85d0bfec06e23578739a476c181b17c4db694c341da4e603e43183a4b42d3"
+    },
     "better-accessibility": {
       "source": "jakubkrehel/skills",
       "sourceType": "github",
@@ -49,6 +55,12 @@
       "skillPath": "skills/better-writing/SKILL.md",
       "computedHash": "5dcd97f7df29f92ef99901601b2a63e2c709f49f9748fd6b61c751b667468564"
     },
+    "brand": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/brand/SKILL.md",
+      "computedHash": "5c99d65bec448b3dda25049f6437a1d8d8777a705a2c597fbe5516dfeeb0a487"
+    },
     "break": {
       "source": "jakubkrehel/skills",
       "sourceType": "github",
@@ -67,11 +79,23 @@
       "skillPath": ".agents/skills/clone-website/SKILL.md",
       "computedHash": "674e9badc4689600170118d221f830740bd2be10bb60bcfbda693e5f214b6c86"
     },
+    "design": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/design/SKILL.md",
+      "computedHash": "63b2e20bf06d4e9347ad1d3f3c8f72e3618db2f1f3de922992b72ca640b5a648"
+    },
     "design-md": {
       "source": "google-labs-code/stitch-skills",
       "sourceType": "github",
       "skillPath": "plugins/stitch-utilities/skills/design-md/SKILL.md",
       "computedHash": "d3a4c7d2f2715a33662c8b06ffc16035d01965a8b4ed81c2958fb22ae94760f8"
+    },
+    "design-system": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/design-system/SKILL.md",
+      "computedHash": "c50a1a77394e988b2593ed97f95ae28b5167eb8a826385b5996d67e398d15b6a"
     },
     "design-taste-frontend": {
       "source": "Leonxlnx/taste-skill",
@@ -145,6 +169,12 @@
       "skillPath": "plugins/stitch-utilities/skills/site-md/SKILL.md",
       "computedHash": "fb726143979f94cf3fac62bd95307eba9eace92319168311c8e277f1aedbfb09"
     },
+    "slides": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/slides/SKILL.md",
+      "computedHash": "9c012d14e94b734b324f859d64da3b47762b8cdee47515ce83bce4366222f885"
+    },
     "state-machine": {
       "source": "jakubkrehel/skills",
       "sourceType": "github",
@@ -216,6 +246,18 @@
       "sourceType": "github",
       "skillPath": "skills/technical-drawing/SKILL.md",
       "computedHash": "82463af3946f64a6fc7b635cb247407d0542a13d434cb344c6bac5138e862e98"
+    },
+    "ui-styling": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/ui-styling/SKILL.md",
+      "computedHash": "39ad392c96adab936d8d057b66d1d632dd9c3d2b2397ec11bfe0e2a7c1fc975a"
+    },
+    "ui-ux-pro-max": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/ui-ux-pro-max/SKILL.md",
+      "computedHash": "27b1e8c953e26f962e3314281601959b04787edf3fd7fccadce176ff844c688d"
     },
     "variant": {
       "source": "jakubkrehel/skills",
