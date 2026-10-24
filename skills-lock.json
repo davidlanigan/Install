@@ -73,6 +73,12 @@
       "skillPath": "skills/explain-interface/SKILL.md",
       "computedHash": "c15f9e3e5844fe4e70e2ea3251665d84fbdeff899bdc9a839cb88f9bdb5dfc65"
     },
+    "frontend-slides": {
+      "source": "zarazhangrui/frontend-slides",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "000d3359f7e63d5671f76270d7db249bc0593e6610fdbf601c3cf656e8f603b5"
+    },
     "hallmark": {
       "source": "Nutlope/hallmark",
       "sourceType": "github",
