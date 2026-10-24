@@ -55,6 +55,12 @@
       "skillPath": "skills/build-design/SKILL.md",
       "computedHash": "46337926e5e37e492fd4e576413b96528d8aa3b4857f90fcb0e587214d15006e"
     },
+    "clone-website": {
+      "source": "JCodesMore/ai-website-cloner-template",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/clone-website/SKILL.md",
+      "computedHash": "674e9badc4689600170118d221f830740bd2be10bb60bcfbda693e5f214b6c86"
+    },
     "design-md": {
       "source": "google-labs-code/stitch-skills",
       "sourceType": "github",
