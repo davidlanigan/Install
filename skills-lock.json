@@ -73,6 +73,12 @@
       "skillPath": "skills/explain-interface/SKILL.md",
       "computedHash": "c15f9e3e5844fe4e70e2ea3251665d84fbdeff899bdc9a839cb88f9bdb5dfc65"
     },
+    "hallmark": {
+      "source": "Nutlope/hallmark",
+      "sourceType": "github",
+      "skillPath": "skills/hallmark/SKILL.md",
+      "computedHash": "32269cfda7e467ba1e2534428a1186c1b7b28d196d0f3b3227d293512fa5f7ec"
+    },
     "interface-review": {
       "source": "jakubkrehel/skills",
       "sourceType": "github",
