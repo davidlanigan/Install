@@ -5,16 +5,9 @@
         "source": "github",
         "repo": "oso95/scroll-world"
       }
-    },
-    "voicestudio": {
-      "source": {
-        "source": "github",
-        "repo": "ritvarsbiksis/voicestudio-plugin"
-      }
     }
   },
   "enabledPlugins": {
-    "scroll-world@scroll-world": true,
-    "voicestudio-plugin@voicestudio": true
+    "scroll-world@scroll-world": true
   }
 }
